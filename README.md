@@ -133,6 +133,7 @@ EDA & PCB Tools          | [![Altium Badge](https://img.shields.io/badge/-Altium
 
 ## 📚 Publications
 
+- 📄 *STEM: A Stochastic Approach on Linear Elements Matching a Generalization of Dynamic Elements Matching for Precise Reference Voltages*
 - 📄 *A DC-DC Step-Up Converter Operating with Extremely Low Input Voltages Exploiting New Techniques for Ring Oscillator and Bootstrap Buffer Booster*
 - 📄 *A Highly Efficient Single Stage DC-DC Step-Up Converter for Energy Harvesting Application Using a Buffer Booster*
 
